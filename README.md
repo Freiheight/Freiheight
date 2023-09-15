@@ -5,7 +5,7 @@ To determine if the MMORPG genre will still be alive in the coming years or not.
 
 ## Table of Contents:
 
-- [About the Project] (#about-the-project)
+- [About the Project] (##about-the-project)
 - [Screenshots] (#screenshots)
 - [Technologies] (#tehcnologies)
 - [Setup] (#setup)
